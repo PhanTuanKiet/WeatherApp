@@ -14,7 +14,7 @@
 - UI: the folder of View layer
 - Utils : the folder of some utils like constants, date time converter, math...
 - ViewModel: contains view models of the app
-- **Note**: because I don't apply the UseCase design so all UI business logics of the app are in ViewModel.
+**#Note**: because I don't apply the UseCase design so all UI business logics of the app are in ViewModel.
 ## Technical/Libraries
 - Language: Kotlin
 - Libs: Hilt, Retrofit, LiveData, View Binding, RxJava, Gson, Junit, Mockito.

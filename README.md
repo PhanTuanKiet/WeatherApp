@@ -2,7 +2,7 @@
 ## Architure diagram
 ![architecture](https://camo.githubusercontent.com/959a6d988b607ed85a3c513a6f6c9c6cea849eafe52221dfe6ef93ca2265d8d5/68747470733a2f2f636f64696e67776974686d697463682e73332e616d617a6f6e6177732e636f6d2f7374617469632f626c6f672f382f6d76766d5f6172636869746563747572652e706e67)
 ## Project Structure
-![structure](https://imgur.com/a/h7pMpLX)
+[![structure.png](https://i.postimg.cc/Zq0mGyh0/sss.png)](https://postimg.cc/Ty8Bm11X)
 - Base: Contains for all base classes.
 - Data: this folder for data layer related classes/dependencies
    - Local: Local data source (DB/SQLite)

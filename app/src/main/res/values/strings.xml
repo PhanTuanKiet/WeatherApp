@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">WeatherApp</string>
     <string name="get_weather">Get Weather</string>
+    <string name="date">Date: %s</string>
+    <string name="average_temperature">Average Temperature: %s\u2103</string>
+    <string name="pressure">Pressure: %s</string>
+    <string name="humidity">Humidity: %s\%%</string>
+    <string name="description">Description: %s</string>
+    <string name="city_name_must_be_more_than_3_characters">*City name must be more than 2 characters</string>
+    <string name="city_name_should_only_contains_alphabet_characters">*City name should only contains alphabet characters</string>
+    <string name="empty"> </string>
 </resources>
